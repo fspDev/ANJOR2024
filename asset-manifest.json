@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CONTROL-X-APP/static/css/main.2b1f4bd9.css",
+    "main.js": "/CONTROL-X-APP/static/js/main.b79a920c.js",
+    "static/js/453.1b2cfe1d.chunk.js": "/CONTROL-X-APP/static/js/453.1b2cfe1d.chunk.js",
+    "static/media/ruleta.png": "/CONTROL-X-APP/static/media/ruleta.a3a8d46b7f4950f9fe3a.png",
+    "static/media/logo.png": "/CONTROL-X-APP/static/media/logo.0287faac5c365498ad9a.png",
+    "static/media/centro.png": "/CONTROL-X-APP/static/media/centro.17db7f996b76513218f5.png",
+    "index.html": "/CONTROL-X-APP/index.html",
+    "main.2b1f4bd9.css.map": "/CONTROL-X-APP/static/css/main.2b1f4bd9.css.map",
+    "main.b79a920c.js.map": "/CONTROL-X-APP/static/js/main.b79a920c.js.map",
+    "453.1b2cfe1d.chunk.js.map": "/CONTROL-X-APP/static/js/453.1b2cfe1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b1f4bd9.css",
+    "static/js/main.b79a920c.js"
+  ]
+}
